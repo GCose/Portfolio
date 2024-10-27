@@ -437,6 +437,7 @@ body {
 /**=============================
  * PORTFOLIO SECTION STYLES
 =============================*/
+.portfolio
 .filter__menu {
   gap: 2rem;
   display: flex;
